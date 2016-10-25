@@ -1,2 +1,7 @@
+---
+disqus:
+  identifier: "some-identifier"
+---
+
 = Article 1
 
