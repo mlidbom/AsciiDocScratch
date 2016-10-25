@@ -1,6 +1,6 @@
 ---
 disqus:
-  identifier: "some-identifier"
+  identifier: "article1constidneverchanging"
 ---
 
 = Article 1
