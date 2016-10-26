@@ -1,2 +1,43 @@
 = Article 1
 
+[source,csharp]
+----
+public class SomeClass : ISomeInterface
+{
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+  public async Task SomeMethod()
+  {
+    //lots of rows like this
+  }
+  
+}
+----
