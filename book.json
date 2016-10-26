@@ -1,11 +1,12 @@
 {
     "plugins": [
         "disqus",
-        "toggle-chapters"
+        "collapsible-chapters"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "composable"
-        }
+        },
+        "collapsible-chapters":{}
     }
 }
