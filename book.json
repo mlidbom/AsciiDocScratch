@@ -1,9 +1,10 @@
 {
     "plugins": [
-        "disqus"
+        "disqus",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
-       "disqus": {
+        "disqus": {
             "shortName": "composable"
         }
     }
