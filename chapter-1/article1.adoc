@@ -1,7 +1,5 @@
 = Article 1
 
-link:BROKEN.adoc[Broken link]
-
 [source,csharp]
 ----
 public class SomeClass : ISomeInterface
