@@ -14,7 +14,7 @@
             "testurl" : "README.adoc",
             "links" : {
                 "link1": "link1",
-                 "link2": link:README.adoc[Link2]
+                 "link2": "link:README.adoc[Link2]"
             }
     }
 }
