@@ -12,7 +12,7 @@
     "variables" : {
             "testlink" : "link:README.adoc[Introduction from links is book.json]",
             "testurl" : "README.adoc",
-            links : {
+            "links" : {
                 "link1": "link1"
             }
     }
