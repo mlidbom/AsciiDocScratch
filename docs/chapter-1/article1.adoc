@@ -17,6 +17,9 @@ public class SomeClass : ISomeInterface
   public async Task SomeMethod()
   {
     //lots of rows like this
+    public MyEntity Get(Guid id){
+
+    }
   }
   
   public async Task SomeMethod()

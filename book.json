@@ -1,8 +1,9 @@
 {
-    "gitbook": "2.x.x",
+    "root":"./docs",
     "plugins": [
         "disqus",
-        "collapsible-chapters"
+        "collapsible-chapters",
+        "nocache"
     ],
     "pluginsConfig": {
         "disqus": {
