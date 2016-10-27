@@ -9,9 +9,9 @@
         },
         "collapsible-chapters":{}
     },
-    links : {
-        introduction : {
-            introduction : ""
+    "links" : {
+        "introduction" : {
+            "introduction" : ""
         }
     }
 }
