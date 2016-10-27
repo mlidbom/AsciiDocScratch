@@ -6,6 +6,8 @@ something
 
 {{book.testurl}}
 
+Nested structure link1 {{book.links.link1}}
+
 
 { % include "./nosuchfile.adoc" % }
 
