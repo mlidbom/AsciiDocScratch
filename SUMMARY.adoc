@@ -1,6 +1,5 @@
 = Summary
 
-. {{book.links.subject01.introduction}}
 . link:BROKEN.adoc[Broken link]
 . link:README.adoc[Introduction]
 . link:chapter-1/readme.adoc[Chapter 1]
@@ -12,4 +11,5 @@
 . link:chapter-2/readme.adoc[Chapter 2]
 . link:chapter-3/readme.adoc[Chapter 3]
 . link:chapter-4/readme.adoc[Chapter 4]
+. {{book.links.subject01.introduction}}
 
