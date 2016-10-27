@@ -10,9 +10,10 @@
         "collapsible-chapters":{}
     },
     "variables" : {
-            "links" : {
+            "links": {
                 "subject01": {
-
+                    "introduction": "chapter-1/README.adoc",
+                    "asubject": "chapter-1/article01.adoc"
                 },
             }
     }
