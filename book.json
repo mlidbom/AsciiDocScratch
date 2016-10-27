@@ -13,12 +13,10 @@
             "testlink" : "link:README.adoc[Introduction from links is book.json]",
             "testurl" : "README.adoc",
             "links" : {
-                "link1": "link:link1.adoc[links.link1]",
-                "link2": "link:link2.adoc[links.link2]",
-                "nested": {
-                    "link1": "link:link1.adoc[links.link1]",
-                    "link2": "link:link2.adoc[links.link2]"
-                }
+                "subject01": {
+                    "introduction": "chapter-1/README.adoc",
+                    "asubject": "chapter-1/article01.adoc",
+                },
             }
     }
 }
