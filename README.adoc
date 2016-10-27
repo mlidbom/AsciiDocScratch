@@ -1,4 +1,6 @@
 = Introduction
 
+{{book.testlink}}
+
 My sandbox for figuring out how to work with Asciidoc and Gitbook.
 
