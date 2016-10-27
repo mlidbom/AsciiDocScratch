@@ -9,11 +9,8 @@
         },
         "collapsible-chapters":{}
     },
-    "testlink" : "link:README.adoc[Introduction from links is book.json]",
-    "testurl" : "README.adoc",
-    "links" : {
-        "introduction" : {
-            "introduction" : "link:README.adoc[Introduction from links is book.json]"
-        }
+    "variables" : {
+            "testlink" : "link:README.adoc[Introduction from links is book.json]",
+            "testurl" : "README.adoc"
     }
 }
