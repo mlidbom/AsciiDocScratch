@@ -12,8 +12,8 @@
     "variables": {
         "links": {
             "subject01": {
-                "introduction": "/chapter-1/README.adoc",
-                "asubject": "/chapter-1/article01.adoc"
+                "introduction": "link:/chapter-1/README.adoc[Introduction to subject 01]",
+                "asubject": "link:/chapter-1/article01.adoc[A subject]"
             }
         }
     }
