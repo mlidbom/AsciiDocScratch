@@ -12,8 +12,9 @@
     },
     "variables": {
         "links": {
+            "rootreadme": ""
             "subject01": {
-                "introduction": "link:/chapter-1/README.adoc[Introduction to subject 01]",
+                "introduction": "/chapter-1/readme.adoc[Introduction to subject 01 with leading slash]",
                 "asubject": "link:chapter-1/article01.adoc[A subject]",
                 "asubjecturl": "chapter-1/article01.adoc"
 
