@@ -4,7 +4,7 @@ book.links.subject01.introduction {{book.links.subject01.introduction}}
 
 book.links.subject01.asubject {{book.links.subject01.asubject}}
 
-book.links.subject01.asubjecturl {{book.links.subject01.asubjecturl}}
+book.links.subject01.asubjecturl  {{book.links.subject01.asubjecturl}}
 
 book.links.subject01.asubjecturl link:{{book.links.subject01.asubjecturl}}[A subject via URL]
 
