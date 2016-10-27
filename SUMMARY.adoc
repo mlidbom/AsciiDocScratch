@@ -1,6 +1,6 @@
 = Summary
 
-
+. {{book.links.subject01.introduction}}
 . link:BROKEN.adoc[Broken link]
 . link:README.adoc[Introduction]
 . link:chapter-1/readme.adoc[Chapter 1]
