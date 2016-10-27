@@ -8,9 +8,9 @@ book.links.subject01.asubjecturl  {{book.links.subject01.asubjecturl}}
 
 book.links.subject01.asubjecturl link:{{book.links.subject01.asubjecturl}}[A subject via URL]
 
-link:/chapter-1/README.adoc[Introduction to subject 01 with leading slash]
+link:/chapter-1/readme.adoc[Introduction to subject 01 with leading slash]
 
-link:chapter-1/README.adoc[Introduction to subject 01 without leading slash]
+link:chapter-1/readme.adoc[Introduction to subject 01 without leading slash]
 
 link:/README.adoc[Root readme with leading slash]
 
