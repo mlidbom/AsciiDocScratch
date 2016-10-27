@@ -8,5 +8,6 @@
             "shortName": "composable"
         },
         "collapsible-chapters":{}
-    }  
+    } ,
+    "gitbook": "2.x.x"
 }
