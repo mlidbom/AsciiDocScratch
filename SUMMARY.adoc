@@ -1,5 +1,8 @@
 = Summary
 
+{{book.testlink}}
+
+
 . link:BROKEN.adoc[Broken link]
 . link:README.adoc[Introduction]
 . {{book.testlink}}
