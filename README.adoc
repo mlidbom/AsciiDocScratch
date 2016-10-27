@@ -1,6 +1,6 @@
 = Introduction
 
-Test some link {{book.testlink}}
+book.links.subject01.introduction {{book.links.subject01.introduction}}
 
 something
 
