@@ -2,7 +2,7 @@
 
 . link:BROKEN.adoc[Broken link]
 . link:README.adoc[Introduction]
-. {{book.links.introduction.introduction}}
+. {{book.testlink}}
 . link:chapter-1/readme.adoc[Chapter 1]
 .. link:chapter-1/article1.adoc[Article 1]
 .. link:chapter-1/article02/article2.adoc[Article 2]
