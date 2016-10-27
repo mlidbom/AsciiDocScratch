@@ -13,7 +13,9 @@
         "links": {
             "subject01": {
                 "introduction": "link:/chapter-1/README.adoc[Introduction to subject 01]",
-                "asubject": "link:/chapter-1/article01.adoc[A subject]"
+                "asubject": "link:/chapter-1/article01.adoc[A subject]",
+                "asubjecturl": "/chapter-1/article01.adoc"
+
             }
         }
     }
