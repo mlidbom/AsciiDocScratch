@@ -1,8 +1,6 @@
 = Introduction
 
- {{book.testlink}}
-
-{{book.testlink}}
+Test some link {{book.testlink}}
 
 something
 
