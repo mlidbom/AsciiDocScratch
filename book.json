@@ -14,7 +14,7 @@
             "rootreadme": "link:/README.adoc[Root readme]",
             "subject01": {
                 "introduction": "link:/chapter-1/readme.adoc[subject01.introduction]",
-                "asubject": "link:chapter-1/article01.adoc[subject01.asubject]",
+                "asubject": "link:chapter-1/article1.adoc[subject01.asubject]",
                 "asubjecturl": "chapter-1/article1.adoc"
             }
         }
