@@ -9,7 +9,6 @@ book.links.subject01.asubjecturl {{book.links.subject01.asubjecturl}}
 book.links.subject01.asubjecturl link:{{book.links.subject01.asubjecturl}}[A subject via URL]
 
 
-
 {% include "nosuchfile.adoc" %}
 
 link:{{ book.testurl }}[Manual link name]
