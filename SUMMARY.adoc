@@ -1,6 +1,5 @@
 = Summary
 
-. {{book.links.subject01.introduction}}
 . link:README.adoc[Introduction]
 . link:chapter-1/readme.adoc[Chapter 1]
 .. link:chapter-1/article1.adoc[Article 1]
