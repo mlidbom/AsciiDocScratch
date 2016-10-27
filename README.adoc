@@ -2,7 +2,7 @@
 
     {{ book.testlink }}
 
-{ %  % }
+{ % include "nosuchfile.adoc" % }
 
 link:{{ book.testurl }}[Manual link name]
 
