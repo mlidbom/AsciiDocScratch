@@ -1,7 +1,7 @@
 = Introduction
 
 {{ book.testlink }}
-link:{{book.testurl}}[Manual link name]
+link:{{ book.testurl }}[Manual link name]
 
 My sandbox for figuring out how to work with Asciidoc and Gitbook.
 
