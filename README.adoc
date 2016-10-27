@@ -1,2 +1,4 @@
 = Introduction
 
+My sandbox for figuring out how to work with Asciidoc and Gitbook.
+
