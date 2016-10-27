@@ -6,7 +6,7 @@ book.links.subject01.asubject {{book.links.subject01.asubject}}
 
 
 
-{ % include "./nosuchfile.adoc" % }
+{% include "./nosuchfile.adoc" %}
 
 link:{{ book.testurl }}[Manual link name]
 
