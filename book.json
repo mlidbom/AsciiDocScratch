@@ -1,4 +1,5 @@
 {
+    "gitbook": "2.x.x",
     "plugins": [
         "disqus",
         "collapsible-chapters"
@@ -9,5 +10,4 @@
         },
         "collapsible-chapters":{}
     } ,
-    "gitbook": "2.x.x"
 }
