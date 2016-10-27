@@ -9,7 +9,7 @@
         },
         "collapsible-chapters":{}
     },
-    "variables" : {
+    "variables": {
             "links": {
                 "subject01": {
                     "introduction": "chapter-1/README.adoc",
