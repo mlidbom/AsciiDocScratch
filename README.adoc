@@ -4,6 +4,9 @@ book.links.subject01.introduction {{book.links.subject01.introduction}}
 
 book.links.subject01.asubject {{book.links.subject01.asubject}}
 
+book.links.subject01.asubjecturl {{book.links.subject01.asubjecturl}}
+
+
 
 
 {% include "nosuchfile.adoc" %}
