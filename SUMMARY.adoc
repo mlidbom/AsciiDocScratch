@@ -2,6 +2,10 @@
 
 {{book.testlink}}
 
+something
+
+{{book.testurl}}
+
 
 . link:BROKEN.adoc[Broken link]
 . link:README.adoc[Introduction]
