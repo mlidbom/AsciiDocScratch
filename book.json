@@ -10,8 +10,6 @@
         "collapsible-chapters":{}
     },
     "variables" : {
-            "testlink" : "link:README.adoc[Introduction from links is book.json]",
-            "testurl" : "README.adoc",
             "links" : {
                 "subject01": {
                     "introduction": "chapter-1/README.adoc",
