@@ -17,7 +17,6 @@ link:/README.adoc[Root readme with leading slash]
 link:README.adoc[Root readme without leading slash]
 
 
-
 link:{{ book.links.subject01.asubjecturl }}[Manual link name]
 
 link:{{ book.links.subject01.asubjecturl }}[Manual link name]
