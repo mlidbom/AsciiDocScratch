@@ -3,7 +3,8 @@
     "plugins": [
         "disqus",
         "collapsible-chapters",
-        "nocache"
+        "nocache",
+        "styles-less"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -11,6 +12,9 @@
         },
         "collapsible-chapters":{}
     },
+    "styles": {
+        "pdf": "./styles/pdf.less"
+    }
     "variables": {
         "links": {
             "rootreadme": "link:/README.adoc[Root readme]",
