@@ -13,7 +13,7 @@
         "collapsible-chapters":{}
     },
     "styles": {
-        "print": "./styles/printa.less",
+        "print": "./styles/printao.less",
         "website": "./styles/website.less"
     },
     "variables": {
