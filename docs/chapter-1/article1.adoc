@@ -18,7 +18,6 @@ public class SomeClass : ISomeInterface
   {
     //lots of rows like this
     public MyEntity Get(Guid id){
-
     }
   }
   
