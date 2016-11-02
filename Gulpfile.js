@@ -18,7 +18,7 @@ gulp.task('build-doc', function () {
 })
 
 gulp.task('watch', function() {
-    gulp.watch(['**/*.adoc','!_book/**'], ['build-doc']);
+    gulp.watch(['**/*.adoc','**/*.less','!_book/**'], ['build-doc']);
 })
 
 gulp.task('default', ['build-doc', 'browser-sync', 'watch']);
