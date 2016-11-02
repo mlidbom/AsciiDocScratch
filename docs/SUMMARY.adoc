@@ -10,4 +10,5 @@
 . link:chapter-2/readme.adoc[Chapter 2]
 . link:chapter-3/readme.adoc[Chapter 3]
 . link:chapter-4/readme.adoc[Chapter 4]
+. link:testwikiconvertion.adoc[TestWikiConvertion]
 
