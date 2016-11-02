@@ -14,7 +14,7 @@
     },
     "styles": {
         "pdf": "./styles/pdf.less"
-    }
+    },
     "variables": {
         "links": {
             "rootreadme": "link:/README.adoc[Root readme]",
