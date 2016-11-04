@@ -3,8 +3,7 @@
     "plugins": [
         "disqus",
         "collapsible-chapters",
-        "nocache",
-        "styles-less"
+        "nocache"
     ],
     "pluginsConfig": {
         "disqus": {
