@@ -11,18 +11,7 @@
         },
         "collapsible-chapters":{}
     },
-    "styles": {
-        "print": "./styles/print.less",
-        "website": "./styles/website.less"
-    },
     "variables": {
-        "links": {
-            "rootreadme": "link:/README.adoc[Root readme]",
-            "subject01": {
-                "introduction": "link:/docs/chapter-1/readme.adoc[subject01.introduction]",
-                "asubject": "link:/docs/chapter-1/article1.adoc[subject01.asubject]",
-                "asubjecturl": "/docs/chapter-1/article1.adoc"
-            }
-        }
+        "links": {}
     }
 }
