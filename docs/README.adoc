@@ -2,8 +2,11 @@
 
 * level 1.1
 * level 1.2
-.. level 2.1
-... something
-... something
-... smotheng
-... aoseunth
+** level 2.1
+*** something
+*** something
+*** smotheng
+
+. aeu
+. aoeu
+.. aoeu
